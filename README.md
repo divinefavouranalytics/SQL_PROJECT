@@ -127,7 +127,8 @@ INNER JOIN skills_dim
 
 - Python, SQL, and R appear most frequently in high-paying roles
 
-![Alt text](assets\Code_Generated_Image.png)
+
+![Alt text](/assets/Code_Generated_Image.png)
 
 
 ## 3️⃣ Most In-Demand Skills
